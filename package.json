@@ -1,0 +1,23 @@
+{
+  "name": "xlstoanki",
+  "version": "1.0.0",
+  "description": "This will create .apkg files from .xls and custom HTML/CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesribeiro/xlstoanki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesribeiro/xlstoanki/issues"
+  },
+  "homepage": "https://github.com/charlesribeiro/xlstoanki#readme",
+  "dependencies": {
+    "anki-apkg-export": "^4.0.3",
+    "jest": "^29.3.1"
+  }
+}
